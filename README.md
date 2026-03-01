@@ -153,6 +153,6 @@ This tool is not intended for commercial or abusive use.
 
 ## 👤 Author
 
-**Fahad Amin**  
+**Muhammad Fahid Amin**  
 SQA Automation Engineer  
-Interested in intelligent automation systems, data-driven testing, and AI-enhanced reliability engineering.
+Interested in intelligent automation systems, data-driven testing.
